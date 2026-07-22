@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Inter, system-ui, sans-serif">
+  <rect width="800" height="500" fill="#0f172a"/>
+  <rect x="430" y="0" width="370" height="500" fill="#1e293b"/>
+  <path d="M470 320 L560 250 L650 320 L650 420 L470 420 Z" fill="#334155"/>
+  <rect x="500" y="350" width="40" height="70" fill="#0f172a"/>
+  <rect x="580" y="350" width="45" height="35" fill="#c8a15a" opacity="0.6"/>
+  <path d="M460 325 L560 245 L660 325" fill="none" stroke="#c8a15a" stroke-width="4" stroke-linecap="round"/>
+  <text x="55" y="120" fill="#c8a15a" font-size="14" font-weight="700" letter-spacing="4">DHA · BAHRIA · CLIFTON</text>
+  <text x="53" y="195" fill="#ffffff" font-size="48" font-weight="800">Find your</text>
+  <text x="53" y="250" fill="#ffffff" font-size="48" font-weight="800">dream home</text>
+  <text x="55" y="300" fill="#94a3b8" font-size="17">Verified listings. Zero brokerage stress.</text>
+  <rect x="55" y="340" width="150" height="1" fill="#334155"/>
+  <text x="55" y="380" fill="#ffffff" font-size="15" font-weight="600">Book a free viewing →</text>
+</svg>

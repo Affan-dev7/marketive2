@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Inter, system-ui, sans-serif">
+  <rect width="800" height="500" fill="#18181b"/>
+  <text x="55" y="90" fill="#a1a1aa" font-size="13" font-weight="700" letter-spacing="4">BRAND BOARD</text>
+  <!-- wordmark -->
+  <text x="53" y="185" fill="#ffffff" font-size="72" font-weight="800" letter-spacing="-2">Saffron</text>
+  <text x="58" y="220" fill="#f97316" font-size="16" font-weight="600" letter-spacing="8">MODERN PAKISTANI KITCHEN</text>
+  <!-- palette chips -->
+  <rect x="55" y="270" width="120" height="120" rx="12" fill="#f97316"/>
+  <text x="65" y="380" fill="#7c2d12" font-size="12" font-weight="700">#F97316</text>
+  <rect x="185" y="270" width="120" height="120" rx="12" fill="#7c2d12"/>
+  <text x="195" y="380" fill="#fed7aa" font-size="12" font-weight="700">#7C2D12</text>
+  <rect x="315" y="270" width="120" height="120" rx="12" fill="#fef3c7"/>
+  <text x="325" y="380" fill="#92400e" font-size="12" font-weight="700">#FEF3C7</text>
+  <!-- logo mark -->
+  <circle cx="620" cy="330" r="100" fill="#27272a"/>
+  <circle cx="620" cy="330" r="100" fill="none" stroke="#f97316" stroke-width="3"/>
+  <path d="M620 285 q-30 45 0 90 q30 -45 0 -90 Z" fill="#f97316"/>
+  <text x="620" y="450" fill="#71717a" font-size="13" text-anchor="middle" letter-spacing="2">SUBMARK</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Inter, system-ui, sans-serif">
+  <rect width="800" height="500" fill="#f5f0e8"/>
+  <!-- three-post grid mock -->
+  <rect x="40" y="40" width="230" height="230" rx="10" fill="#e7ddcc"/>
+  <circle cx="155" cy="140" r="52" fill="#c19a6b"/>
+  <rect x="110" y="205" width="90" height="10" rx="5" fill="#b8a88f"/>
+  <rect x="290" y="40" width="230" height="230" rx="10" fill="#3f3222"/>
+  <text x="405" y="140" fill="#e7ddcc" font-size="24" font-weight="700" text-anchor="middle" font-style="italic">Fresh</text>
+  <text x="405" y="175" fill="#c8a15a" font-size="24" font-weight="700" text-anchor="middle" font-style="italic">Roast</text>
+  <rect x="540" y="40" width="230" height="230" rx="10" fill="#e7ddcc"/>
+  <rect x="580" y="80" width="150" height="150" rx="75" fill="#d9c7a8"/>
+  <path d="M620 155 q35 -45 70 0" fill="none" stroke="#8a6d3b" stroke-width="6" stroke-linecap="round"/>
+  <!-- caption bar -->
+  <rect x="40" y="300" width="730" height="160" rx="12" fill="#ffffff"/>
+  <circle cx="80" cy="340" r="18" fill="#c8a15a"/>
+  <text x="110" y="338" fill="#3f3222" font-size="16" font-weight="700">thecoffeecorner.pk</text>
+  <text x="110" y="360" fill="#8a7a63" font-size="13">Karachi · Coffee &amp; bakes</text>
+  <text x="72" y="405" fill="#3f3222" font-size="15">☕ New seasonal menu is live — tag a friend you'd</text>
+  <text x="72" y="428" fill="#3f3222" font-size="15">bring. #KarachiCafe #CoffeeLovers #DHA</text>
+</svg>

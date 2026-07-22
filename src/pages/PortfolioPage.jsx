@@ -44,6 +44,11 @@ export default function PortfolioPage() {
           <ComingSoon label={activeLabel} />
         )}
       </div>
+
+      <p className="mt-8 text-xs text-slate-400">
+        Pieces marked “Concept” are sample work that shows our style. Client work is shown
+        without brand names for privacy.
+      </p>
     </section>
   )
 }

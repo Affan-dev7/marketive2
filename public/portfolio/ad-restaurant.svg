@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Inter, system-ui, sans-serif">
+  <rect width="800" height="500" fill="#1c1917"/>
+  <circle cx="620" cy="250" r="210" fill="#292524"/>
+  <circle cx="620" cy="250" r="140" fill="#f59e0b" opacity="0.15"/>
+  <circle cx="620" cy="250" r="95" fill="#f59e0b"/>
+  <text x="620" y="235" fill="#1c1917" font-size="34" font-weight="800" text-anchor="middle">40%</text>
+  <text x="620" y="272" fill="#1c1917" font-size="20" font-weight="700" text-anchor="middle" letter-spacing="2">OFF</text>
+  <text x="60" y="130" fill="#f59e0b" font-size="15" font-weight="700" letter-spacing="4">GRAND OPENING</text>
+  <text x="58" y="210" fill="#ffffff" font-size="62" font-weight="800">Now Open</text>
+  <text x="60" y="270" fill="#ffffff" font-size="62" font-weight="800">in Karachi</text>
+  <text x="60" y="320" fill="#a8a29e" font-size="18">Dine in · Takeaway · Delivery</text>
+  <rect x="60" y="360" width="230" height="52" rx="26" fill="#f59e0b"/>
+  <text x="175" y="393" fill="#1c1917" font-size="17" font-weight="700" text-anchor="middle">Order on WhatsApp</text>
+</svg>

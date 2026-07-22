@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Inter, system-ui, sans-serif">
+  <rect width="800" height="500" fill="#fce7f0"/>
+  <circle cx="400" cy="250" r="300" fill="#f9d4e3"/>
+  <rect x="330" y="120" width="140" height="260" rx="24" fill="#ffffff"/>
+  <rect x="360" y="160" width="80" height="120" rx="12" fill="#ec4899" opacity="0.85"/>
+  <circle cx="400" cy="200" r="20" fill="#fce7f0"/>
+  <rect x="372" y="300" width="56" height="10" rx="5" fill="#f9a8c8"/>
+  <text x="400" y="70" fill="#be185d" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="4">SKINCARE ROUTINE</text>
+  <text x="400" y="430" fill="#be185d" font-size="30" font-weight="800" text-anchor="middle">Glow in 3 steps ✨</text>
+  <circle cx="150" cy="120" r="42" fill="#ffffff"/>
+  <text x="150" y="128" fill="#be185d" font-size="26" font-weight="800" text-anchor="middle">01</text>
+  <circle cx="650" cy="380" r="42" fill="#ffffff"/>
+  <text x="650" y="388" fill="#be185d" font-size="26" font-weight="800" text-anchor="middle">03</text>
+</svg>
