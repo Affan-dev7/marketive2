@@ -47,8 +47,11 @@ export default function Services() {
       <div className="mx-auto max-w-5xl px-5">
         <p className="text-xs font-semibold tracking-widest text-blue-600 uppercase">Services</p>
         <h2 className="mt-2 max-w-md text-3xl font-bold tracking-tight text-slate-900">
-          One team. Every service you need to grow.
+          Stop juggling five agencies. We do it all.
         </h2>
+        <p className="mt-2 max-w-md text-slate-500">
+          Ads, social media, websites and AI — one team handles it end-to-end.
+        </p>
 
         <div className="mt-8 grid gap-4 sm:grid-cols-3">
           {featured.map(({ icon: Icon, name, line }) => (
