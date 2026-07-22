@@ -7,6 +7,7 @@ import {
   Megaphone,
   Palette,
   PenLine,
+  PhoneCall,
   Search,
   Share2,
   TrendingUp,
@@ -14,7 +15,8 @@ import {
 
 const services = [
   { icon: Globe, name: 'Website development', line: 'Fast sites that convert' },
-  { icon: Bot, name: 'AI automation', line: 'Replies & bookings, 24/7' },
+  { icon: Bot, name: 'AI automation', line: 'Workflows that run themselves' },
+  { icon: PhoneCall, name: 'AI calling agents', line: 'Answers & books calls, 24/7' },
   { icon: TrendingUp, name: 'Digital marketing', line: 'Campaigns that sell' },
   { icon: Share2, name: 'Social media management', line: 'Your pages, handled' },
   { icon: Search, name: 'Google ads', line: 'Found when they search' },
