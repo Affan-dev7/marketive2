@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="system-ui, sans-serif">
+  <rect width="800" height="500" fill="#ffffff"/>
+  <rect width="800" height="36" fill="#f1f5f9"/>
+  <circle cx="22" cy="18" r="5" fill="#cbd5e1"/>
+  <circle cx="40" cy="18" r="5" fill="#cbd5e1"/>
+  <circle cx="58" cy="18" r="5" fill="#cbd5e1"/>
+  <rect x="230" y="9" width="340" height="18" rx="9" fill="#ffffff"/>
+  <text x="400" y="22" fill="#94a3b8" font-size="12" text-anchor="middle">caraudio.pk</text>
+  <rect x="0" y="36" width="800" height="140" fill="#2563eb"/>
+  <text x="60" y="105" fill="#ffffff" font-size="34" font-weight="700">CAR AUDIO PK</text>
+  <text x="60" y="140" fill="#bfdbfe" font-size="16">Sound systems · Speakers · Installation</text>
+  <rect x="60" y="210" width="200" height="150" rx="12" fill="#f1f5f9"/>
+  <rect x="300" y="210" width="200" height="150" rx="12" fill="#f1f5f9"/>
+  <rect x="540" y="210" width="200" height="150" rx="12" fill="#f1f5f9"/>
+  <circle cx="160" cy="270" r="35" fill="#e2e8f0"/>
+  <circle cx="400" cy="270" r="35" fill="#e2e8f0"/>
+  <circle cx="640" cy="270" r="35" fill="#e2e8f0"/>
+  <circle cx="160" cy="270" r="16" fill="#2563eb"/>
+  <circle cx="400" cy="270" r="16" fill="#2563eb"/>
+  <circle cx="640" cy="270" r="16" fill="#2563eb"/>
+  <rect x="95" y="325" width="130" height="10" rx="5" fill="#cbd5e1"/>
+  <rect x="335" y="325" width="130" height="10" rx="5" fill="#cbd5e1"/>
+  <rect x="575" y="325" width="130" height="10" rx="5" fill="#cbd5e1"/>
+  <rect x="60" y="400" width="180" height="44" rx="22" fill="#2563eb"/>
+  <text x="150" y="428" fill="#ffffff" font-size="15" font-weight="600" text-anchor="middle">Shop now</text>
+</svg>

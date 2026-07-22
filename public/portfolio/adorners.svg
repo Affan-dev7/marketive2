@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Georgia, serif">
+  <rect width="800" height="500" fill="#0f172a"/>
+  <rect width="800" height="36" fill="#1e293b"/>
+  <circle cx="22" cy="18" r="5" fill="#334155"/>
+  <circle cx="40" cy="18" r="5" fill="#334155"/>
+  <circle cx="58" cy="18" r="5" fill="#334155"/>
+  <rect x="230" y="9" width="340" height="18" rx="9" fill="#0f172a"/>
+  <text x="400" y="22" fill="#64748b" font-size="12" text-anchor="middle" font-family="system-ui, sans-serif">adorners.pk</text>
+  <text x="400" y="200" fill="#f8fafc" font-size="52" letter-spacing="14" text-anchor="middle">ADORNERS</text>
+  <text x="400" y="240" fill="#94a3b8" font-size="16" letter-spacing="4" text-anchor="middle" font-family="system-ui, sans-serif">ARCHITECTURE · INTERIOR DESIGN</text>
+  <rect x="140" y="300" width="150" height="110" fill="#1e293b"/>
+  <rect x="325" y="300" width="150" height="110" fill="#334155"/>
+  <rect x="510" y="300" width="150" height="110" fill="#1e293b"/>
+  <line x1="140" y1="440" x2="660" y2="440" stroke="#334155" stroke-width="1"/>
+</svg>
