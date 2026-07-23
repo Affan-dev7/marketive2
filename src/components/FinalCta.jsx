@@ -8,7 +8,7 @@ export default function FinalCta() {
           Ready to get more customers?
         </h2>
         <p className="mt-3 text-blue-100">
-          Ads, social media or a new website — message us, we reply fast.
+          Content, ads, or a website that converts — message us, we reply fast.
         </p>
         <div className="mt-8">
           <WhatsAppButton variant="inverted" />

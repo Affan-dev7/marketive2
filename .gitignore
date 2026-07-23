@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Local skills tooling (installed via `npx skills`), not site code
+.agents/
+.claude/
+skills-lock.json
