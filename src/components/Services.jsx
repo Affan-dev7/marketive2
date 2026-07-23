@@ -20,7 +20,7 @@ const featured = [
   },
   {
     icon: Share2,
-    name: 'Social media marketing',
+    name: 'Social media management',
     line: 'Your pages managed, your content posted, your brand growing.',
   },
   {
